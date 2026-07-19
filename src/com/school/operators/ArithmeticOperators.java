@@ -1,7 +1,7 @@
 package com.school.operators;
 
 public class ArithmeticOperators {
-    static void main(String[]args){
+    public static void main(String[]args){
         int a = 48;
         int b = 13;
         int addition = a + b;
