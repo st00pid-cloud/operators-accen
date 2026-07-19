@@ -13,6 +13,7 @@ public class AssignmentOperators {
         int modulus = main_score %= 7;
 
         //print-out
+        System.out.println("Initial Score: 100");
         System.out.println("After +=: " + increment );
         System.out.println("After -=: " + decrement );
         System.out.println("After *=: " + multiply );

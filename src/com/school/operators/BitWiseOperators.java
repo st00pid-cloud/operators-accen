@@ -16,7 +16,7 @@ public class BitWiseOperators {
         System.out.println(a + " | " + b + " = " + or);
         System.out.println(a + " ^ " + b + " = " + xor);
         System.out.println("~"+ a + " = " + not);
-        System.out.println(a + " << 2 +" + left_shift);
+        System.out.println(a + " << 2 = " + left_shift);
         System.out.println(a + " >> 2 = " + right_shift);
 
     }
